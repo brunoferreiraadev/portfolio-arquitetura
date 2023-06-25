@@ -1,1 +1,0 @@
-const botao=document.querySelector(".link0");window.addEventListener("scroll",function(){0==window.scrollY?botao.classList.remove("visible"):botao.classList.add("visible")});
